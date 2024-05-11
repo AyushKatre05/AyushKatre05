@@ -19,6 +19,7 @@ Feel free to explore my repositories to see more of my work!
 - Machine Learning Libraries: TensorFlow, PyTorch, Scikit-learn, Streamlit
 - Web Development: HTML, CSS, JavaScript, Flask, React, NodeJs, ExpressJs
 - Tools & Technologies: Git, Docker, Jupyter Notebook, VS Code
+- Database: MongoDB, MySQL
 
 ## Let's Connect
 
