@@ -25,5 +25,6 @@ Feel free to explore my repositories to see more of my work!
 
 - LinkedIn: [Ayush Katre](https://www.linkedin.com/in/ayush-katre-2142262a3/)
 - Email: ayushkatre1801@gmail.com
+- Portfolio - [Ayush Katre](https://ayushkatreportfolio.vercel.app)
 
 I'm always open to new opportunities and collaborations. If you have any questions, suggestions, or just want to say hi, feel free to reach out! 😊
