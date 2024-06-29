@@ -15,11 +15,12 @@ Feel free to explore my repositories to see more of my work!
 
 ## Skills
 
-- Programming Languages: Python, C++, Java, Go, C, Javascript
+- Programming Languages: Python, C++, Java, Go, C, Javascript, Typescript
 - Machine Learning Libraries: TensorFlow, PyTorch, Scikit-learn, Streamlit
-- Web Development: HTML, CSS, JavaScript, Flask, React, NodeJs, ExpressJs,NextJs
+- Web Development: HTML, CSS, JavaScript, Flask, React, NodeJs, ExpressJs, NextJs, 
 - Tools & Technologies: Git, Docker, Jupyter Notebook, VS Code
-- Database: MongoDB, MySQL
+- Database: MongoDB, MySQL, PostgreSql
+- ORMs - Mongoose, Drizzle
 
 ## Let's Connect
 
