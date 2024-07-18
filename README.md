@@ -5,18 +5,18 @@ I'm a passionate machine learning enthusiast and software developer. Welcome to 
 ## About Me
 
 - 👀 I'm interested in machine learning, deep learning, natural language processing, computer vision, and software development.
-- 🌱 I'm currently learning advanced machine learning techniques and diving deeper into neural networks architectures.
+- 🌱 I'm currently learning advanced machine learning techniques and diving deeper into neural networks architectures. Along with it, I also make projects on web development
 - 💞️ I'm looking to collaborate on projects related to machine learning, AI, and software development.
 - 📫 You can reach me via email at [ayushkatre1801@gmail.com](mailto:ayushkatre1801@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-katre-2142262a3/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy playing chess in my free time!
+- ⚡ Fun fact: I enjoy playing chess and candy crush in my free time!
   
 Feel free to explore my repositories to see more of my work!
 
 ## Skills
 
 - Programming Languages: Python, C++, Java, Go, C, Javascript, Typescript
-- Machine Learning Libraries: TensorFlow, PyTorch, Scikit-learn, Streamlit
+- Machine Learning Libraries: TensorFlow, PyTorch, Scikit-learn, Streamlit, OpenCV
 - Web Development: HTML, CSS, JavaScript, Flask, React, NodeJs, ExpressJs, NextJs, 
 - Tools & Technologies: Git, Docker, Jupyter Notebook, VS Code
 - Database: MongoDB, MySQL, PostgreSql
