@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Katre
 
-**Passionate Full-stack Developer | AI & Machine Learning Enthusiast**
+**A Full-stack Developer | AI & Machine Learning Engineer**
 
 Welcome to my GitHub! I'm dedicated to building robust web applications and exploring the fascinating world of Artificial Intelligence.
 
@@ -39,8 +39,7 @@ Welcome to my GitHub! I'm dedicated to building robust web applications and expl
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23EA4C89.svg?style=for-the-badge&logo=framermotion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ### **DevOps & Deployments**
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![Yaml](https://img.shields.io/badge/Yaml-%230B2C4A.svg?style=for-the-badge) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-%230075B6.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) ![Yaml](https://img.shields.io/badge/Yaml-%230B2C4A.svg?style=for-the-badge) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-%230075B6.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ### **Machine Learning & Deep Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spacy](https://img.shields.io/badge/Spacy-%2304A3E4.svg?style=for-the-badge&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
