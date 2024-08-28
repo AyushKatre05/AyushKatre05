@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Katre
 
-**Passionate Full-stack Developer | AI & Machine Learning Enthusiast**
+**Passionate Full-stack Developer | AI & Machine Learning**
 
 Welcome to my GitHub! I'm dedicated to building robust web applications and exploring the fascinating world of Artificial Intelligence.
 
