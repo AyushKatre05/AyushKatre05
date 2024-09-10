@@ -50,4 +50,4 @@ I'm always open to new opportunities and collaborations. Feel free to explore my
 
 ### 🐍 Watch my contribution graph get eaten by the snake!
 
-![GitHub Snake Animation](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-contribution-grid-snake.gif)
