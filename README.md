@@ -6,6 +6,11 @@ Welcome to my GitHub! I'm dedicated to building robust web applications and expl
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=AyushKatre05&color=blue)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyushKatre05&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 ## 🚀 About Me
 
 - **🌐 Full-stack Developer:** Crafting seamless and dynamic web applications using the latest technologies.
