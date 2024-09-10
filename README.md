@@ -46,8 +46,3 @@ Welcome to my GitHub! I'm dedicated to building robust web applications and expl
 - **Portfolio:** [Ayush Katre](https://ayushkatreportfolio.vercel.app)
 
 I'm always open to new opportunities and collaborations. Feel free to explore my repositories, and don't hesitate to reach out. Let's build something amazing together! 😊
-
-
-### 🐍 Watch my contribution graph get eaten by the snake!
-
-![GitHub Snake Animation](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-contribution-grid-snake.gif)
