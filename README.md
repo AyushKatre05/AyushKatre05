@@ -6,13 +6,6 @@ Welcome to my GitHub! I'm dedicated to building robust web applications and expl
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyushKatre05&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushKatre05&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKatre05&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🚀 About Me
 
 - **🌐 Full-stack Developer:** Crafting seamless and dynamic web applications using the latest technologies.
@@ -24,6 +17,7 @@ Welcome to my GitHub! I'm dedicated to building robust web applications and expl
 - **🎮 Fun Fact:** When I'm not coding, you’ll find me strategizing in chess or swiping candies in Candy Crush.
 
 ---
+
 
 ## 🛠️ Skills & Expertise
 
@@ -38,6 +32,13 @@ Welcome to my GitHub! I'm dedicated to building robust web applications and expl
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyushKatre05&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushKatre05&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKatre05&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🌐 Let's Connect
 
 - **LinkedIn:** [Ayush Katre](https://www.linkedin.com/in/ayush-katre-2142262a3/)
@@ -45,3 +46,8 @@ Welcome to my GitHub! I'm dedicated to building robust web applications and expl
 - **Portfolio:** [Ayush Katre](https://ayushkatreportfolio.vercel.app)
 
 I'm always open to new opportunities and collaborations. Feel free to explore my repositories, and don't hesitate to reach out. Let's build something amazing together! 😊
+
+
+### 🐍 Watch my contribution graph get eaten by the snake!
+
+![GitHub Snake Animation](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-contribution-grid-snake.svg)
