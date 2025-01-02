@@ -1,21 +1,6 @@
-# 👋 Hi, I'm Ayush Katre
+# <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Hi, I'm Ayush Katre <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-**A Full-stack Developer | AI & Machine Learning Engineer**
-
-Welcome to my GitHub! I'm dedicated to building robust web applications and exploring the fascinating world of Artificial Intelligence.
-
----
-
-## 🚀 About Me
-
-- **🌐 Full-stack Developer:** Crafting seamless and dynamic web applications using the latest technologies.
-- **🤖 AI Explorer:** Delving deep into Machine Learning, Deep Learning, NLP, and Computer Vision.
-- **💡 Innovator:** Always on the lookout for exciting projects that merge AI with Full-stack Development.
-- **💬 Let's Collaborate:** I'm eager to collaborate on innovative AI and Full-stack development projects.
-- **📬 Reach Out:** [Email](mailto:ayushkatre1801@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ayush-katre-2142262a3/)
-
----
-
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FullStack+Developer;I'm+a+Machine+Learning+Engineer" /></a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 ## 🛠️ Skills & Expertise
 
@@ -32,17 +17,54 @@ Welcome to my GitHub! I'm dedicated to building robust web applications and expl
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyushKatre05&theme=dark&hide_border=true)](https://git.io/streak-stats)
+# Statistics
+<div align="center">
+<a href="https://github.com/AyushKatre05">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKatre05&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKatre05&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKatre05&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushKatre05&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushKatre05&theme=aura" height="180em" />
+</div>
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushKatre05&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AyushKatre05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKatre05&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AyushKatre05&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
+
+<h1> Want to Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
+<a href = 'https://www.linkedin.com/in/ayush-katre'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://x.com/ayush_katre_05'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://ayushkatre.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
+<a href = 'https://www.github.com/AyushKatre05'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
-## 🌐 Let's Connect
+---
 
-- **LinkedIn:** [Ayush Katre](https://www.linkedin.com/in/ayush-katre-2142262a3/)
-- **Email:** [ayushkatre1801@gmail.com](mailto:ayushkatre1801@gmail.com)
-- **Portfolio:** [Ayush Katre](https://ayushkatreportfolio.vercel.app)
-
-I'm always open to new opportunities and collaborations. Feel free to explore my repositories, and don't hesitate to reach out. Let's build something amazing together! 😊
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
