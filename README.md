@@ -18,14 +18,13 @@
 ---
 
 # Statistics
-<div>
+
 <a href="https://github.com/AyushKatre05">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKatre05&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKatre05&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKatre05&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushKatre05&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushKatre05&theme=aura" height="180em" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AyushKatre05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
