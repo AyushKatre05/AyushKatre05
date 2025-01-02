@@ -30,6 +30,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AyushKatre05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐍 Snake Eating My Contributions
+![snake gif](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-snake-dark.svg)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AyushKatre05&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
