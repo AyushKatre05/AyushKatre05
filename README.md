@@ -18,7 +18,7 @@
 ---
 
 # Statistics
-<div align="center">
+<div>
 <a href="https://github.com/AyushKatre05">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKatre05&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKatre05&theme=aura" height="180em" />
