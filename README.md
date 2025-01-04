@@ -33,10 +33,12 @@
 ## 🐍 Snake Eating My Contributions
 ![snake gif](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-snake-dark.svg)
 
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: end; text-align: center;">
+  <h3>🔝 Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AyushKatre05&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+  <img alt="dsmark" height="40%" width="40%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyushKatre05&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
 <h1> Want to Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
 <a href = 'https://www.linkedin.com/in/ayush-katre'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
