@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,jenkins,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,redis,tensorflow,pytorch,flask,java,fastapi,kafka,postgres,gitlab,bash,prisma,cpp,css,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,bun,babel,py,react,redux,sass,tailwind,ts,jenkins,vscode,kubernetes&perline=15" />
   </a>
 </p>
 
@@ -28,14 +28,7 @@
 ## 🐍 Snake Eating My Contributions
 ![snake gif](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-snake-dark.svg)
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: end; text-align: center;">
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=AyushKatre05&limit=5&theme=blueberry&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
-  <img alt="dsmark" height="40%" width="40%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-</div>
-
-
-<h1> Want to Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
+<img  align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <a href = 'https://www.linkedin.com/in/ayush-katre'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://x.com/ayush_katre_05'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <a href = 'https://ayushkatre.vercel.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
