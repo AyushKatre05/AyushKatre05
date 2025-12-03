@@ -1,4 +1,4 @@
-<!--# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hi, I'm Ayush Katre -->
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hi, I'm Ayush Katre
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+My+Github;I'm+a+FullStack+Developer;I'm+a+AI+ML+Engineer)](https://git.io/typing-svg)
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
@@ -20,7 +20,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKatre05&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKatre05&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushKatre05&theme=aura" height="180em" />
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushKatre05&theme=aura" height="180em" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushKatre05&theme=aura" height="180em" />
 
 
 ## 🏆 GitHub Trophies
@@ -29,11 +29,11 @@
 ## 🐍 Snake Eating My Contributions
 ![snake gif](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-snake-dark.svg)
 
-<!-- <img  align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<img  align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <a href = 'https://www.linkedin.com/in/ayush-katre'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://x.com/ayush_katre_05'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 <a href = 'https://ayushkatre.tech/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
-<a href = 'https://www.github.com/AyushKatre05'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> -->
+<a href = 'https://www.github.com/AyushKatre05'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 ---
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
