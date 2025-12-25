@@ -22,10 +22,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushKatre05&theme=aura" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushKatre05&theme=aura" height="180em" />
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyushKatre05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🐍 Snake Eating My Contributions
 ![snake gif](https://github.com/AyushKatre05/AyushKatre05/blob/output/github-snake-dark.svg)
 
