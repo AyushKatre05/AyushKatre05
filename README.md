@@ -9,6 +9,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,redis,tensorflow,pytorch,flask,java,fastapi,kafka,postgres,gitlab,bash,prisma,cpp,express,figma,firebase,supabase,github,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,bun,babel,py,react,redux,sass,tailwind,ts,jenkins,vscode,kubernetes&perline=14" />
   </a>
+ <img align="left" height="135" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2wyMWthMDV2cG4weGwwOGRneHA4NTQ1aG8wcW83dXZnMXQ1andzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+
 </p>
 
 ---
